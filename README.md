@@ -33,7 +33,6 @@ To achieve a high Return on Ad Spend (ROAS), we have segmented the audience base
 * **Call to Action (CTA):** "Shop Now"
 
 ### 2. Strategic Visual Framework
-[attachment_0](attachment)
 * **Attention:** High-resolution lifestyle imagery that resonates with Gen-Z.
 * **Interest:** Bullet points highlighting the "Uniqueness" of the fabric and the "Versatility" of the designs.
 * **Desire:** Social proof and limited-time offer badges.
@@ -54,7 +53,6 @@ We adopt a structured budget distribution to optimize performance:
 - **Prospecting (70%):** Targeting new users to expand brand awareness.
 - **Retargeting (30%):** Re-engaging users who visited the website but did not complete the purchase (using abandoned cart dynamic ads).
 
-[attachment_1](attachment)
 
 ---
 
