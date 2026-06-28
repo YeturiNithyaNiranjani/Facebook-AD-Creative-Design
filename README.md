@@ -1,3 +1,4 @@
+![Facebook Ad Creative Banner](banner.png)
 # Facebook Ad Creative Design Strategy - TrendStyle Fashion
 
 ## 📋 Internship & Candidate Profile
