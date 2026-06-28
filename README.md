@@ -73,9 +73,9 @@ We adopt a structured budget distribution to optimize performance:
 ---
 
 ## 📝 Conclusion
+---
 This Facebook advertising campaign is not just about sales; it is about building an identity for TrendStyle Fashion. By aligning our creative vision with precise audience insights and rigorous testing, we are positioning the brand for long-term growth and market competitiveness.
 
----
 ---
 ⭐ Developed by **Yeturi Nithya Niranjani** as part of the **CODTECH IT Solutions Digital Marketing Internship Program (2026)**.
 
