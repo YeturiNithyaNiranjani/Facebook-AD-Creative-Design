@@ -38,7 +38,11 @@ To achieve a high Return on Ad Spend (ROAS), we have segmented the audience base
 * **Interest:** Bullet points highlighting the "Uniqueness" of the fabric and the "Versatility" of the designs.
 * **Desire:** Social proof and limited-time offer badges.
 * **Action:** A frictionless path to purchase.
-facebook-ad-poster.png
+### 🎨 Final Facebook Advertisement
+
+![Final Facebook Ad](facebook-ad-poster.png)
+
+*Figure: Final Facebook Ad Creative designed for the TrendStyle Fashion campaign.*
 ---
 
 ## 🛠 Advanced Ad Creative Testing (A/B Testing)
