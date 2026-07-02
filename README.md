@@ -6,7 +6,7 @@
 - **Intern ID:** CITS1133
 - **Internship Domain:** Digital Marketing
 - **Organization:** CODTECH IT Solutions
-- **Project Reference:** Task 2 - Facebook Ad Creative Design
+- **Project:** Facebook Ad Creative Design
 - **Brand Name:** TrendStyle Fashion
 - **Date:** June 2026
 
@@ -33,7 +33,7 @@ To achieve a high Return on Ad Spend (ROAS), we have segmented the audience base
 * **Primary Text:** "Upgrade your wardrobe with TrendStyle Fashion. Discover trendy styles, premium quality, and exciting discounts. Shop now and enjoy Flat 40% OFF on selected collections. Limited Time Offer!"
 * **Call to Action (CTA):** "Shop Now"
 
-### 2. Strategic Visual Framework
+### 2. Strategic Visual Framework 
 * **Attention:** High-resolution lifestyle imagery that resonates with Gen-Z.
 * **Interest:** Bullet points highlighting the "Uniqueness" of the fabric and the "Versatility" of the designs.
 * **Desire:** Social proof and limited-time offer badges.
@@ -42,7 +42,7 @@ To achieve a high Return on Ad Spend (ROAS), we have segmented the audience base
 
 ![Final Facebook Ad](facebook-ad-poster.png)
 
-*Figure: Final Facebook Ad Creative designed for the TrendStyle Fashion campaign.*
+*Figure 1. Final Facebook Ad Creative for the TrendStyle Fashion Campaign.*
 ---
 
 ## 🛠 Advanced Ad Creative Testing (A/B Testing)
